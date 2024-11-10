@@ -1,0 +1,6 @@
+For this, David can choose any topic and add content to the website. He can add background image, background color, linear-gradient, animation using CSS.
+
+1. David's ACP- Background Effects
+2. My Image as Background
+3. Linear-gradient with red color
+4. Animation color Display

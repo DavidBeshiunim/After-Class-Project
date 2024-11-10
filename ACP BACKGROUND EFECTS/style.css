@@ -1,0 +1,42 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.image_section {
+    width: 100%;
+    height: 200px;
+    background-color: red;
+    background-image: url("image.jpg");
+    text-align: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.gradient_section {
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+    background-image: linear-gradient(to right, green, greenyellow, purple)
+}
+
+.animation_section {
+    width: 100%;
+    height: 200px;
+    background-color: blueviolet;
+    animation: contactanination 10s infinite
+}
+
+@keyframes contactanination {
+    0% {
+        background-color: red;
+    }
+
+    50% {
+        background-color: blue;
+    }
+
+    100% {
+        background-color: white;
+    }
+}
