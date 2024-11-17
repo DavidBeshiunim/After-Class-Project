@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    color: brown;
+}
+
+h1 {
+    color: blue;
+}
+
+/* Advanced Selector :Child Selector*/
+ul>li {
+    font-weight: bold;
+}
+
+/* Advanced Selector :Child Selector*/
+h2+p {
+    background-color: aquamarine;
+}
+
+/*pseudo Class:hover*/
+ul li:hover {
+    color: gold;
+}
+
+/*pseudo Class:nth-child*/
+ul il:nth-child(3) {
+    background-color: lightcoral;
+}
+
+/*pseudo Element::first-letter*/
+p::first-letter {
+    font-size: 30px;
+}
+
+/*pseudo Element::before*/
+ul il::before {
+    content: "🚀"
+}

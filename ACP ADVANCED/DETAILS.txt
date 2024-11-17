@@ -1,0 +1,1 @@
+ACP Instructions for Advanced Selectors, Pseudo Classes, and Pseudo Element: Choose a topic (Science Club, Maths Club), and add content based on the topic. Add Advanced Selectors (child selector, sibling selector), Pseudo Classes (:hover, :nth-child), and Pseudo Element (::first-letter, ::before, ::after) for the styling.
