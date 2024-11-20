@@ -1,6 +1,0 @@
-School Project: Webpage Showing Semantic Elements
-
-Home
-Our Services
-About Us
-Contact Us

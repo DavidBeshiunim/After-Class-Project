@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.Table {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid red;
+    background-color: turquoise;
+    height: 200px;
+    width: 200px;
+}
+
+#Table1 {
+    float: left;
+}
+
+#Table2 {
+    float: right;
+}
+
+footer {
+    background-color: gold;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}

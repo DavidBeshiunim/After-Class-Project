@@ -1,0 +1,8 @@
+[20:04, 16/11/2024] Shreya CODINGAL TEACHER: Learning Outcome of Box Model
+Understanding of Box model
+Understanding of padding
+Understanding of float
+[20:05, 16/11/2024] Shreya CODINGAL TEACHER: ACP for Box Model:
+Topic: Travel Destinations: Highlight popular tourist spots with tips for travelers.
+Example sections: Top Destinations, Packing Tips, Travel Safety.
+Use: padding, margin, border, background-color, etc.
