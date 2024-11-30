@@ -1,0 +1,29 @@
+. {
+    height: 30px;
+    border: 5px solid lightgoldenrodyellow;
+    position: ;
+    top: 20px;
+    left: 20px;
+}
+
+. {
+    height: 30px;
+    border:5px solid red;
+    position: ;
+    left: 50px;
+    top: 20px;
+}
+
+. {
+    height: 30px;
+    border: 5px solid blue;
+    position: ;
+    bottom: 0;
+}
+
+. {
+    height: 50px;
+    border: 5px solid yellow;
+    position: ;
+    top: 0;
+}
