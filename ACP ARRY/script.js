@@ -1,12 +1,16 @@
-var programming_languages = ["Javascript", "python", "c", "java"];
+var programming_languages = ["html", "css", "bootstrap", "javascript"];
 
 document.write(programming_languages);
 document.write("<br>");
 
 // Accessing array element
+document.write(programming_languages[0]);
+document.write("<br>");
 document.write(programming_languages[1]);
 document.write("<br>");
-document.write(programming_languages[0]);
+document.write(programming_languages[2]);
+document.write("<br>");
+document.write(programming_languages[3]);
 document.write("<br>");
 
 // Array Methods
@@ -18,4 +22,4 @@ programming_languages.pop();
 programming_languages.pop();
 programming_languages.pop();
 document.write(programming_languages);
-document.write("<br>");
+document.write("<br>");                                                                                                                                                                                         
