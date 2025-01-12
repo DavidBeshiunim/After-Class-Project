@@ -1,0 +1,19 @@
+1.this
+
+2.constructor()
+
+3.object 
+
+4.extend
+
+5.super
+
+6.interitance
+
+7.Hi Carol
+
+8.My name is Riya, I born in 2014, And my age is 10
+
+9.parent class
+
+10.extends

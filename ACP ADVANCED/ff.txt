@@ -1,0 +1,185 @@
+1.
+DOM stands for_\_\_\__\_?
+
+
+Document Object Model
+
+
+Document Object Meta
+
+
+Document Obj Model
+
+
+Dip Object Model
+
+Correct answer
+Document Object Model
+
+2.
+Which tag is used to define JavaScript?
+
+
+html
+
+
+body
+
+
+link
+
+
+script
+
+Correct answer
+script
+
+3.
+When a webpage is loaded the browser creates a _\_\_\_\__ model of the page?
+
+
+Object model
+
+
+Document object
+
+
+Detail object
+
+
+Model
+
+Correct answer
+Document object
+
+4.
+Which tag is used to create the following block?
+
+
+
+
+p
+
+
+body
+
+
+label
+
+
+button
+
+Correct answer
+button
+
+5.
+What is the output of the following code block?
+
+
+
+
+15
+
+
+14
+
+
+4
+
+
+16
+
+Correct answer
+16
+
+6.
+Which tag is used for the following block?
+
+
+
+
+button
+
+
+input
+
+
+body
+
+
+html
+
+Correct answer
+input
+
+7.
+Which tag is used for paragraph?
+
+
+br
+
+
+div
+
+
+p
+
+
+pr
+
+Correct answer
+p
+
+8.
+The node directly above a node is called?
+
+
+sibling
+
+
+child
+
+
+parent
+
+
+ancestors
+
+Correct answer
+parent
+
+9.
+Which element is used in script tag for external script file?
+
+
+join
+
+
+src
+
+
+s
+
+
+link
+
+Correct answer
+src
+
+10.
+The _\_\__method displays an alert box with a specified message and an OK button.
+
+
+alert()
+
+
+Message()
+
+
+box()
+
+
+Alt()
+
+Correct answer
+alert()
